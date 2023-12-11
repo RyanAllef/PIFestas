@@ -1,0 +1,79 @@
+﻿@model PROJETO01.Modelos.CadastroFesta
+<br />
+<br />
+
+<div class="container-fluid bg-light" style="border:solid">
+    <br />
+    <h3>Preencha os dados abaixo:</h3>
+    <br />
+    
+    <form asp-controller="CadastroFesta" asp-action="AdicionarConfirmacao" method="post">
+        <div class="mb-3">
+            <label for="FestaID" class="form-label">ID da Festa:</label>
+            <input asp-for="FestaID" type="number" class="form-control" placeholder="Digite o ID da Festa" />
+        </div>
+        <div class="mb-3">
+            <label for="Nome" class="form-label">Nome:</label>
+            <input asp-for="Nome" type="text" class="form-control" placeholder="Digite o nome da Festa" />
+        </div>
+
+        <div class="mb-3">
+            <label for="Endereco" class="form-label">Endereço:</label>
+            <input asp-for="Endereco" type="text" class="form-control" placeholder="Digite o endereço da festa" />
+        </div>
+        <div class="mb-3">
+            <label for="Bairro" class="form-label">Bairro:</label>
+            <input asp-for="Bairro" type="text" class="form-control" placeholder="Digite o bairro da festa" />
+        </div>
+        <div class="mb-3">
+            <label for="Cidade" class="form-label">Cidade:</label>
+            <input asp-for="Cidade" type="text" class="form-control" placeholder="Digite a cidade onde a festa acontecerá" />
+        </div>
+        <div class="mb-3">
+            <label for="Estado" class="form-label">Estado:</label>
+            @Html.DropDownListFor(
+                    item => item.UF,
+                    new SelectList(ViewBag.Estado, "UF", "Nome"),
+                    "-- Selecione o estado --",
+                    new { @class = "form-control" }
+                )
+        </div>
+
+        <div class="mb-3">
+            <label for="Data" class="form-label">Data e Hora:</label>
+            <input asp-for="DataFesta" type="datetime-local" class="form-control" placeholder="Digite a data e a hora da festa" />
+        </div>
+        <div class="mb-3">
+            <label for="Preco" class="form-label">Preço:</label>
+            <input asp-for="PrecoIngresso" type="number" class="form-control" placeholder="Digite o preço do ingresso para entrar" />
+        </div>
+        <div class="mb-3">
+            <label for="OrganizadorID" class="form-label">Organizador:</label>
+            @Html.DropDownListFor(
+                    item => item.OrganizadorID,
+                    new SelectList(ViewBag.Organizador, "OrganizadorID", "Nome"),
+                    "-- Selecione --",
+                    new { @class = "form-control" }
+                )
+        </div>
+        <div class="mb-3">
+            <label for="ConviteID" class="form-label">ID do Convite</label>
+            <input asp-for="ConviteID" type="number" class="form-control" placeholder="Insira o ID do Convite" />
+        </div>
+
+
+
+
+        <hr />
+
+        <a href="#" class="btn btn-secondary" onclick="javascript:history.back()">        
+           Voltar
+        </a>
+      
+        <button type="submit" class="btn btn-success float-right">
+            Salvar
+        </button>
+        <br />
+    </form>
+    <br />
+</div>

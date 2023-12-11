@@ -1,0 +1,65 @@
+﻿@model List<PROJETO01.Modelos.CadastroFesta>
+
+<br />
+<br />
+<br />
+<div class="container-fluid bg-light w-100 p-3" style="border:solid"> 
+    <br />
+    <br />
+    <h3>
+        Cadastro de Festas
+        <br />
+        <a class="btn btn-dark  float-right" href="/CadastroFesta/Adicionar" style="background-color:darkolivegreen">
+            ADICIONAR
+        </a>
+        <br />
+    </h3>
+
+    <table class="table ">
+        <thead>
+            <tr>
+                <th>ID da Festa</th>
+                <th>Nome</th>
+                <th>Endereço</th>
+                <th>Bairro</th>
+                <th>Cidade</th>
+                <th>Estado</th>
+                <th>Data e Hora</th>
+                <th>Preço do ingresso</th>
+                <th>Organizador</th>
+                <th>Convite</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.FestaID</td>
+                    <td>@item.Nome</td>
+                    <td>@item.Endereco</td>
+                    <td>@item.Bairro</td>
+                    <td>@item.Cidade</td>
+                    <td>@item.UF</td>
+                    <td>@item.DataFesta</td>
+                    <td>@item.PrecoIngresso</td>
+                    <td>@item.OrganizadorID</td>
+                    <td>@item.ConviteID</td>
+
+
+                    <td>
+                        <a href="/CadastroFesta/Editar?FestaID=@item.FestaID" class="btn btn-sm btn-dark">
+                            Editar
+                        </a>
+                        <br>
+                        <a href="/CadastroFesta/Excluir?FestaID=@item.FestaID" class="btn btn-sm btn-danger">
+                            Excluir
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </div>
+
+

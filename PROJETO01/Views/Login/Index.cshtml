@@ -1,0 +1,125 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f8f9fa;
+        }
+
+        .navbar {
+            background-color: darkolivegreen;
+            padding: 2px 0;
+            border-bottom: 1px solid #fff;
+        }
+
+            .navbar img {
+                width: 40px;
+                height: 40px;
+                margin-right: 5px;
+            }
+
+        .navbar-brand {
+            color: #fff;
+            margin-left: 5px;
+        }
+
+        .container {
+            background-color: #fff;
+            border: 1px solid #ced4da;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            width: 80%;
+        }
+
+        h3 {
+            color: #495057;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        label {
+            color: #495057;
+        }
+
+        .form-control {
+            margin-bottom: 15px;
+        }
+
+        .btn-secondary {
+            background-color: #6c757d;
+            color: #fff;
+            border: none;
+        }
+
+        .btn-success {
+            background-color: #28a745;
+            color: #fff;
+            border: none;
+        }
+
+        .alert-danger {
+            color: #721c24;
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body style="background-image: url('/img/imagemfundo.png'); background-repeat: no-repeat; background-size: cover; background-position: center; background-attachment: fixed ">
+    
+        <div class="container">
+        <h3>Insira seu usuário e senha para efetuar o login:</h3>
+        <form asp-controller="Login" asp-action="IndexConfirm" method="post">
+
+            <label for="Nome">Usuário:</label>
+            <input type="text" placeholder="digite seu usuário" id="Nome" name="Nome" class="form-control" required />
+
+            <label for="Senha">Senha:</label>
+            <input type="password" placeholder="digite sua senha" id="Senha" name="Senha" class="form-control" required />
+
+            <br />
+
+            <button type="submit" class="btn btn-success btn-block">
+                Login
+            </button>
+
+            <a href="#" class="btn btn-secondary btn-block" onclick="javascript:history.back()">
+                Voltar
+            </a>
+
+            <br />
+
+            @{
+                if (ViewBag.ErroLogin != null)
+                {
+                    <div class="alert alert-danger">
+                        @ViewBag.ErroLogin
+                    </div>
+                }
+            }
+        </form>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Party51.props" />
+</Project>

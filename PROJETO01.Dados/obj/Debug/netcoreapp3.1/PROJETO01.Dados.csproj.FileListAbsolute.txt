@@ -1,0 +1,89 @@
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.deps.json
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CopyComplete
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\gabri\Desktop\Projeto Party 51 (visual)\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.deps.json
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csprojAssemblyReference.cache
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfoInputs.cache
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfo.cs
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CopyComplete
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\040847\Desktop\Nova pasta\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.deps.json
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfo.cs
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CopyComplete
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\gabri\Documents\Party51\Party51\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.deps.json
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.AssemblyReference.cache
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfoInputs.cache
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfo.cs
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CoreCompileInputs.cache
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CopyComplete
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\ryana\OneDrive\Documentos\Party51-main\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.deps.json
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.AssemblyReference.cache
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfoInputs.cache
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfo.cs
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CoreCompileInputs.cache
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CopyComplete
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\ryana\OneDrive\Documentos\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.deps.json
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.AssemblyReference.cache
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfoInputs.cache
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfo.cs
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CoreCompileInputs.cache
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CopyComplete
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\ryana\Downloads\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.deps.json
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.AssemblyReference.cache
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfoInputs.cache
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.AssemblyInfo.cs
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CoreCompileInputs.cache
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.csproj.CopyComplete
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.dll
+C:\Users\ryana\OneDrive\Área de Trabalho\PROJETO01\PROJETO01.Dados\obj\Debug\netcoreapp3.1\PROJETO01.Dados.pdb
